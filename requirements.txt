@@ -1,0 +1,5 @@
+nltk
+fetcher
+uvicorn
+fastapi
+pymongo
